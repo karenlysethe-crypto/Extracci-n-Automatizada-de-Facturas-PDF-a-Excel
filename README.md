@@ -27,7 +27,6 @@ Este bot soluciona la carga administrativa de procesar facturas recibidas en for
 
 ### 📺 Demostración del Bot
 ![Demostración del Robot](nombre-de-tu-gif-aqui.gif)
-
----<img width="1152" height="648" alt="download" src="https://github.com/user-attachments/assets/f03175eb-24b4-4450-8280-5dcab81077e5" />
+<img width="1152" height="648" alt="download" src="https://github.com/user-attachments/assets/f03175eb-24b4-4450-8280-5dcab81077e5" />
 
 
