@@ -24,7 +24,10 @@ Este bot soluciona la carga administrativa de procesar facturas recibidas en for
 3.  **Consolidación:** Almacena los datos en una tabla de memoria.
 4.  **Exportación:** Escribe los resultados en un archivo Excel maestro.
 
----<img width="1152" height="648" alt="download" src="https://github.com/user-attachments/assets/f03175eb-24b4-4450-8280-5dcab81077e5" />
 
 ### 📺 Demostración del Bot
 ![Demostración del Robot](nombre-de-tu-gif-aqui.gif)
+
+---<img width="1152" height="648" alt="download" src="https://github.com/user-attachments/assets/f03175eb-24b4-4450-8280-5dcab81077e5" />
+
+
